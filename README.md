@@ -9,10 +9,6 @@
 
 ###
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/115420975?s=400&u=913a7bb1b78ba8cd14ec5e4c60749927efff7b84&v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -47,7 +43,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Brom016/Brom016/output/snake.svg" alt="Snake animation" />
 
 ###
