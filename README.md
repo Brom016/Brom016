@@ -1,48 +1,57 @@
-<h2 align="center">Hi 👋! My name is Bromo and I'm a Student from Indonesia</h2>
+<h1 align="center">👋 Hi, I'm Bromo!</h1>
+<h3 align="center">A Passionate Student & Developer from Indonesia 🇮🇩</h3>
 
-###
+---
+
+### 🚀 About Me
+- 🎓 I'm currently studying and learning **Web Development** & **Embedded Systems**
+- 💡 I love building **creative projects** that combine **hardware + software**
+- 🌱 Currently exploring **Laravel**, **Tailwind**, and **IoT simulation**
+
+---
+
+### 🧠 Tech Stack
+<div align="center">
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,laravel" /><br>
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unity" /><br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,photoshop" />
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brom016&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brom016&layout=compact&theme=rose_pine&hide_border=false&langs_count=6" height="160" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
+### 🛠️ Projects & Experiments
+Here are a few things I'm currently working on:
+- 🧭 **Line Follower Robot (Arduino + PID)**
+- 🛒 **Marketplace Produk Mahasiswa (Laravel + Filament)**
 
-###
+> 💬 Want to collaborate? DM me — I’m always open for project discussions!
 
-<div align="left">
+---
+
+### 🌍 Connect with Me
+<div align="center">
   <a href="https://www.instagram.com/bromo016/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=9655f2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-9655f2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@hamidargo16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:hamidbromo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-###
+<div align="center">
+  <i>“勉強している”</i>
+</div>
