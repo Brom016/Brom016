@@ -28,10 +28,7 @@
 
 ---
 
-### 🛠️ Projects & Experiments
-Here are a few things I'm currently working on:
-- 🧭 **Line Follower Robot (Arduino + PID)**
-- 🛒 **Marketplace Produk Mahasiswa **
+
 
 > 💬 Want to collaborate? DM me — I’m always open for project discussions!
 
