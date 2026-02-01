@@ -3,14 +3,14 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm currently studying and learning **Web Development** & **Embedded Systems**
-- 💡 I love building **creative projects** that combine **hardware + software**
-- 🌱 Currently exploring **Laravel**, **Tailwind**, and **IoT simulation**
+### About Me
+- I'm currently studying and learning **Web Development** & **Robotics**
+- I love building **creative projects** that combine **hardware + software**
+- Currently exploring **Laravel**, **Tailwind**, and **IoT simulation**
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 <div align="center">
   <!-- Web -->
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,laravel" /><br>
@@ -22,19 +22,15 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brom016&layout=compact&theme=rose_pine&hide_border=false&langs_count=6" height="160" />
-</div>
-
 ---
 
 
 
-> 💬 Want to collaborate? DM me — I’m always open for project discussions!
+> Want to collaborate? DM me — I’m always open for project discussions!
 
 ---
 
-### 🌍 Connect with Me
+### Connect with Me
 <div align="center">
   <a href="https://www.instagram.com/bromo016/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-9655f2?style=for-the-badge&logo=instagram&logoColor=white" />
