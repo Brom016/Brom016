@@ -6,7 +6,7 @@
 ### About Me
 - I'm currently studying and learning **Web Development** & **Robotics**
 - I love building **creative projects** that combine **hardware + software**
-- Currently exploring **Laravel**, **Tailwind**, and **IoT simulation**
+- Currently exploring **Laravel**, **Flutter**, and **IoT simulation**
 
 ---
 
